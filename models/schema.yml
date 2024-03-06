@@ -52,11 +52,11 @@ sources:
           description: The logistic cost associated with shipping.
         - name: ship_cost
           description: The total shipping cost, which may include additional charges beyond the shipping fee.
-        - name: adwords
-          identifier: raw_gz_adwords
-        - name: bing
-          identifier: raw_gz_bing
-        - name: criteo
-          identifier: raw_gz_criteo
-        - name: criteo
-          identifier: raw_gz_criteo
+      - name: adwords
+        identifier: raw_gz_adwords
+      - name: bing
+        identifier: raw_gz_bing
+      - name: criteo 
+        identifier: raw_gz_criteo
+      - name: facebook
+        identifier: raw_gz_facebook
